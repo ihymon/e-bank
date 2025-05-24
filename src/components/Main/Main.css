@@ -1,0 +1,15 @@
+.HomePage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+}
+.HomePage h1{
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+.HomePage h3{
+    font-size: 50px;
+}
